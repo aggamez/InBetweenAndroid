@@ -13,7 +13,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginTop="300dp"
-            android:id="@+id/button4"/>
+            android:id="@+id/btnDraw"/>
 
     <Button
             android:text="@string/btnBet"
@@ -21,7 +21,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="300dp"
             android:layout_centerHorizontal="true"
-            android:id="@+id/button5"/>
+            android:id="@+id/btnBet"/>
 
     <Button
             android:text="@string/btnFold"
@@ -29,7 +29,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="300dp"
             android:layout_marginStart="510dp"
-            android:id="@+id/button6"/>
+            android:id="@+id/btnFold"/>
 
     <Button
             android:text="@string/btnHigher"
@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="350dp"
             android:layout_centerHorizontal="true"
-            android:id="@+id/button7"/>
+            android:id="@+id/btnHigher"/>
 
     <Button
             android:text="@string/btnLower"
@@ -45,7 +45,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="350dp"
             android:layout_marginStart="510dp"
-            android:id="@+id/button8"/>
+            android:id="@+id/btnLower"/>
 
     <Button
             android:text="@string/btnReset"
@@ -53,7 +53,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginTop="350dp"
-            android:id="@+id/button9"/>
+            android:id="@+id/btnReset"/>
 
     <Button
             android:text="@string/btnReveal"
@@ -61,7 +61,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginTop="250dp"
-            android:id="@+id/button10"/>
+            android:id="@+id/btnReveal"/>
 
     <TextView
             android:text="@string/txtPotMoney"
