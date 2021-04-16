@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InBetween</string>
+    <string name="title">In-Between</string>
+    <string name="subtitle">Fast-food Edition</string>
+    <string name="play">Play</string>
+    <string name="settings">Settings</string>
+    <string name="guide">How to Play</string>
+    <string name="volumeUp"> + </string>
+    <string name="volumeDown"> - </string>
+    <string name="resetData"> Reset Data </string>
+    <string name="exitSettings"> Exit Settings </string>
+</resources>
